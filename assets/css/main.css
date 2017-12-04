@@ -1,0 +1,64 @@
+.header_row , .header_col{
+	margin:0;
+}
+
+.panda_one{
+	background-image: url(../img/uno.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+.section{
+	border-top: 20px solid #ff8a65;
+	border-bottom: 20px solid #ff8a65;
+	margin-bottom: 0;
+}
+
+.panda_two{
+	background-image: url(../img/dos.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.img_one{
+	background-image: url(../img/a1.jpg);
+	background-repeat: no-repeat;
+	height: 20vh;	
+	width: 20vh;
+	border: 6px solid white;
+	margin-left: 90%;
+}
+
+.img_two{
+	background-image: url(../img/a2.jpg);
+	background-repeat: no-repeat;	
+	height: 20vh;	
+	width: 20vh;
+	border: 6px solid white;
+	margin-left: 45%;
+}
+.img_three{
+	background-image: url(../img/a3.jpg);
+	background-repeat: no-repeat;	
+	height: 20vh;	
+	width: 20vh;
+	border: 6px solid white;
+	margin-left: 1%;
+}
+
+.img_four{
+	background-image: url(../img/a4.jpg);
+	background-repeat: no-repeat;
+	height: 20vh;	
+	width: 20vh;
+	border: 6px solid white;
+	margin-left: -43%;	
+}
+.panda_three{
+	background-image: url(../img/tres.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.footer_row{
+	margin-bottom: 0;
+}
